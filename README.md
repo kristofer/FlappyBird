@@ -5,8 +5,4 @@
 
 ## Usage
 
-```
-git clone https://github.com/stronglink/FlappyBird.git
-cd FlappyBird
-./run
-```
+Clone it into IntelliJ and run the main.
