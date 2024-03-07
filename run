@@ -1,4 +1,4 @@
 #!/bin/bash
-javac src/*.java
-java -cp src/ App
-rm src/*.class
+#javac src/main/java/rocks/zipcode/*.java
+java -cp target/classes/ App
+#rm src/*.class

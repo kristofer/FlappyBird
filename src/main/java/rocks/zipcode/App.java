@@ -1,4 +1,4 @@
-import javax.swing.*;
+mvn exec:javaimport javax.swing.*;
 
 public class App {
 
